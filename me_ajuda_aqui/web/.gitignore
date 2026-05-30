@@ -1,0 +1,5 @@
+PUB CACHE
+.dart_tool/
+build/
+*.lock
+.packages
